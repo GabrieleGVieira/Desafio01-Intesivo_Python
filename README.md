@@ -12,6 +12,7 @@
 - [Proposta](#proposta)
 - [Lógica](#lógica)
 - [Tecnologias utilizadas](#tecnologias)
+- [Resultados](#resultados)
 
 ## Proposta
 
@@ -52,6 +53,8 @@ Passo 5: Enviar e-mail
 ## Tecnologias
 
 [Dados](https://github.com/GabrieleGVieira/Desafio01-Intesivo_Python/blob/main/docs/Vendas.xlsx)
+
+[Código](https://github.com/GabrieleGVieira/Desafio01-Intesivo_Python/blob/main/docs/Desafio01_Intensivo_Python.ipynb)
 
 Ferramenta: Google Colab
 
