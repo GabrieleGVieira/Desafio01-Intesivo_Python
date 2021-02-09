@@ -39,11 +39,11 @@ Passo 2: visualizar a base de dados e modelar caso tenha necessidade
 
 Passo 3: calcular indicadores:
 
-  Faturamento
+     Faturamento
 
-  Quantidade de produtos vendidos
+     Quantidade de produtos vendidos
 
-  Ticket Médio
+     Ticket Médio
 
 Passo 4: Calcular indicadores de cada loja
 
@@ -52,6 +52,7 @@ Passo 5: Enviar e-mail
 ## Tecnologias
 
 [Dados](https://github.com/GabrieleGVieira/Desafio01-Intesivo_Python/blob/main/docs/Vendas.xlsx)
+
 Ferramenta: Google Colab
 
 Linguagem de programação: Python
