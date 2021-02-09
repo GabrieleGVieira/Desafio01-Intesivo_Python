@@ -5,7 +5,7 @@
 
 > Intensivão de Python 👨‍🏫
 
-> Aula 1 - Automação de processos e tarefas
+> Aula 1 - Automação de processos e tarefas com Python
 
 > [Hashtag Programação](https://www.youtube.com/channel/UCafFexaRoRylOKdzGBU6Pgg)
 
